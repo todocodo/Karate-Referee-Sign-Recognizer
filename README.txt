@@ -1,14 +1,14 @@
 Karate Referee Signal Detection using Mediapipe and OpenCV
 
-FYP - Todor Ranchev 
+Author - Todor Ranchev 
 
 Software: 
 
 	- Python 3.8 or later version
-	- anaconda (optional)
+	- Anaconda (optional)
 	- Jupyter Notebook (optional)
 
-	A software which can read ipynb files for example (jupyter notebook, google colab)
+	A software which can read ipynb files - for example (jupyter notebook, google colab)
 	
 	All libraries are listed in the notebook files together with some instructions
 
