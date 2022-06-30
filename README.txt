@@ -2,6 +2,9 @@ Karate Referee Signal Detection using Mediapipe and OpenCV
 
 Author - Todor Ranchev 
 
+What does the system do:
+The system is capable of precisely recognising the sports referee's signals in real-time using an AI-based software and a camera and updating the scoreboard automatically. That way, the need for a human operator to update the scoreboard is eliminated, which reduces the human factor as well as the subjectivity in sports. The goal is to make the sport fairer. 
+
 Software: 
 
 	- Python 3.8 or later version
